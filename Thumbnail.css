@@ -1,0 +1,21 @@
+.ActiveTumbnailWindow{
+    height: 60%;
+    width: 100vh;
+    background: black;
+}
+
+.ThumbnailGrid{
+    height: 40%;
+    width: 100vh;
+    background: red;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.Thumbnail{
+    height: 50%;
+    width: 25vh;
+    background: yellow;
+}
+
